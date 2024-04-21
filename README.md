@@ -1,7 +1,7 @@
-</p>
+</p> My name Faisal udas 
 <p align="center">
   <a href="[https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL](https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG)">
-    <img alt=Support height="400" src="https://telegra.ph/file/dce77f7538019d05afe65.jpg"> 
+    <img alt=Support height="400" src="https://telegra.ph/file/c9cf81098ddc12e44148b.jpg"> 
     </p>
 <p align  = center> <a href="#"><img title="MALIK-MD MULTI DEVICE" src="https://img.shields.io/badge/MALIK-MD WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/arkhan998/MALIK-MD" />
+    <img alt="Forks" src="https://img.shields.io/github/forks/faisaludas167/MALIK-MD" />
   </a>
   
   
@@ -28,10 +28,10 @@
 ---
 # ```Scan QR Code```
 
-1. ***Get [SESSION-ID](https://malik-md-qr-generater.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices****
+1. ***Get [SESSION-ID](https://Faisaludas-md-qr-generater.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices****
 --- 
 # ```Fork Repo```
-2. ***Click [FORK](https://github.com/arkhan998/MALIK-MD/fork)***
+2. ***Click [FORK](https://github.com/Faisaludas167/MALIK-MD/fork)***
  
 ---
 
@@ -42,7 +42,7 @@
 <h4 align="left"> Deploy on Heroku
 </h4>
 
-</p>
+</p> my name Faisal udas 
 
 <p align="left" >
     <a href="https://heroku.com/deploy?template=https://github.com/arkhan998/MALIK-MD">
@@ -60,7 +60,7 @@
 </h4>
 
 <p align="left" >
-    <a href="https://repl.it/github/arkhan998/MALIK-MD">
+    <a href="https://repl.it/github/faisaludas167/MALIK-MD">
     <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     </a>
 </p>
@@ -150,12 +150,12 @@
 
 **2:Thanks to excel owner of izuku md**
 
-## ⚖️  *MALIK-MD - DEVELOPER TEAM* *2024*  ⚖️
+## ⚖️  *Faisal udas-MD - DEVELOPER TEAM* *2024*  ⚖️
 
 <div align="left">
   <a href="[https://github.com/chhaseeb47]"><img src="https://github.com/arkhan998.png" width="200" height="200" alt="Ash"/></a>
   
-| [ATA-UR-REHMAN](https://github.com/arkhan998) |
+| [ATA-UR-REHMAN](https://github.com/Faisaludas167) |
 | Owner, Developer, Maintainer, updates|
 
 ---
@@ -180,12 +180,13 @@
   </br> 
 <h4 align="left">
 ##𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :
-  
+  *Faisal udas my account number* 
+  *923037484167*
 ***Tap On Logo To Subscribe MY YouTube Channel***
 </p>
  <p align="left">
   <a href="https://youtube.com/@technicalmalikofficial?si=CXnFQmsKVz-0eHq3 ?sub_confirmation=1">
-    <img alt=Support height="70" src="https://telegra.ph/file/eb6347e2764939fbbd35d.png"> 
+    <img alt=Support height="70" src="https://telegra.ph/file/c9cf81098ddc12e44148b.jpg"> 
   </p>
     
  ***Tap On Logo To Contat Me***
